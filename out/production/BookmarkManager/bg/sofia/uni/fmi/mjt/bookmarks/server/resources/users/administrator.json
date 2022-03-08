@@ -1,0 +1,926 @@
+{
+  "username": "administrator",
+  "password": "YWRtaW5pc3RyYXRvcg\u003d\u003d",
+  "groups": [
+    {
+      "title": "testGroup1",
+      "bookmarks": [
+        {
+          "title": "Факултет по математика и информатика",
+          "url": "https://bit.ly/359CtIn",
+          "keywords": [
+            "студенти",
+            "фми",
+            "програми",
+            "специалност",
+            "обучение"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "imported",
+      "bookmarks": [
+        {
+          "title": "Zimbra Web Client Sign In",
+          "url": "https://email.uni-sofia.bg/",
+          "keywords": [
+            "zimbra",
+            "client",
+            "recommend",
+            "advanc",
+            "standard"
+          ]
+        },
+        {
+          "title": "Twitch",
+          "url": "https://www.twitch.tv/",
+          "keywords": []
+        },
+        {
+          "title": "learn.fmi.uni-sofia.bg",
+          "url": "https://learn.fmi.uni-sofia.bg/",
+          "keywords": [
+            "страница",
+            "български",
+            "курсове",
+            "прескочи",
+            "влезли"
+          ]
+        },
+        {
+          "title": "ПСБО - СИСТЕМА ЗА НАСТАНЯВАНЕ",
+          "url": "https://psbo.uni-sofia.bg/",
+          "keywords": [
+            "климент",
+            "поделение",
+            "обслужване",
+            "св",
+            "социално"
+          ]
+        },
+        {
+          "title": "GitHub: Where the world builds software · GitHub",
+          "url": "https://github.com/",
+          "keywords": [
+            "github",
+            "code",
+            "octocat",
+            "learn",
+            "classifier"
+          ]
+        },
+        {
+          "title": "Zamunda.NET",
+          "url": "https://zamunda.net/",
+          "keywords": [
+            "zamunda",
+            "рекламирай",
+            "замунда",
+            "peer",
+            "начало"
+          ]
+        },
+        {
+          "title": "Факултет по математика и информатика",
+          "url": "https://www.fmi.uni-sofia.bg/",
+          "keywords": [
+            "студенти",
+            "фми",
+            "програми",
+            "специалност",
+            "обучение"
+          ]
+        },
+        {
+          "title": "ownCloud",
+          "url": "https://intranet.fmi.uni-sofia.bg/index.php/s/HgCnJ4fbIeMrf2r",
+          "keywords": [
+            "upload",
+            "files",
+            "download",
+            "create",
+            "javascript"
+          ]
+        },
+        {
+          "title": "Wolfram|Alpha: Computational Intelligence",
+          "url": "https://www.wolframalpha.com/",
+          "keywords": [
+            "wolfram",
+            "topics",
+            "math",
+            "language",
+            "personal"
+          ]
+        },
+        {
+          "title": "Facebook",
+          "url": "https://www.facebook.com/",
+          "keywords": [
+            "заявка",
+            "facebook",
+            "страница",
+            "регистрация",
+            "обработена"
+          ]
+        },
+        {
+          "title": "YouTube",
+          "url": "https://www.youtube.com/",
+          "keywords": [
+            "llc",
+            "информацияпресаавторски",
+            "youtubeизпробване",
+            "безопасносткак",
+            "google"
+          ]
+        },
+        {
+          "title": "Instagram",
+          "url": "https://www.instagram.com/",
+          "keywords": []
+        },
+        {
+          "title": "",
+          "url": "https://twitter.com/",
+          "keywords": [
+            "javascript",
+            "twitter",
+            "support",
+            "browser",
+            "policy"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywords": {
+    "заявка": [
+      {
+        "title": "Facebook",
+        "url": "https://www.facebook.com/",
+        "keywords": [
+          "заявка",
+          "facebook",
+          "страница",
+          "регистрация",
+          "обработена"
+        ]
+      }
+    ],
+    "facebook": [
+      {
+        "title": "Facebook",
+        "url": "https://www.facebook.com/",
+        "keywords": [
+          "заявка",
+          "facebook",
+          "страница",
+          "регистрация",
+          "обработена"
+        ]
+      }
+    ],
+    "страница": [
+      {
+        "title": "learn.fmi.uni-sofia.bg",
+        "url": "https://learn.fmi.uni-sofia.bg/",
+        "keywords": [
+          "страница",
+          "български",
+          "курсове",
+          "прескочи",
+          "влезли"
+        ]
+      },
+      {
+        "title": "Facebook",
+        "url": "https://www.facebook.com/",
+        "keywords": [
+          "заявка",
+          "facebook",
+          "страница",
+          "регистрация",
+          "обработена"
+        ]
+      }
+    ],
+    "регистрация": [
+      {
+        "title": "Facebook",
+        "url": "https://www.facebook.com/",
+        "keywords": [
+          "заявка",
+          "facebook",
+          "страница",
+          "регистрация",
+          "обработена"
+        ]
+      }
+    ],
+    "обработена": [
+      {
+        "title": "Facebook",
+        "url": "https://www.facebook.com/",
+        "keywords": [
+          "заявка",
+          "facebook",
+          "страница",
+          "регистрация",
+          "обработена"
+        ]
+      }
+    ],
+    "студенти": [
+      {
+        "title": "Факултет по математика и информатика",
+        "url": "https://www.fmi.uni-sofia.bg/",
+        "keywords": [
+          "студенти",
+          "фми",
+          "програми",
+          "специалност",
+          "обучение"
+        ]
+      },
+      {
+        "title": "Факултет по математика и информатика",
+        "url": "https://bit.ly/359CtIn",
+        "keywords": [
+          "студенти",
+          "фми",
+          "програми",
+          "специалност",
+          "обучение"
+        ]
+      }
+    ],
+    "фми": [
+      {
+        "title": "Факултет по математика и информатика",
+        "url": "https://www.fmi.uni-sofia.bg/",
+        "keywords": [
+          "студенти",
+          "фми",
+          "програми",
+          "специалност",
+          "обучение"
+        ]
+      },
+      {
+        "title": "Факултет по математика и информатика",
+        "url": "https://bit.ly/359CtIn",
+        "keywords": [
+          "студенти",
+          "фми",
+          "програми",
+          "специалност",
+          "обучение"
+        ]
+      }
+    ],
+    "програми": [
+      {
+        "title": "Факултет по математика и информатика",
+        "url": "https://www.fmi.uni-sofia.bg/",
+        "keywords": [
+          "студенти",
+          "фми",
+          "програми",
+          "специалност",
+          "обучение"
+        ]
+      },
+      {
+        "title": "Факултет по математика и информатика",
+        "url": "https://bit.ly/359CtIn",
+        "keywords": [
+          "студенти",
+          "фми",
+          "програми",
+          "специалност",
+          "обучение"
+        ]
+      }
+    ],
+    "специалност": [
+      {
+        "title": "Факултет по математика и информатика",
+        "url": "https://www.fmi.uni-sofia.bg/",
+        "keywords": [
+          "студенти",
+          "фми",
+          "програми",
+          "специалност",
+          "обучение"
+        ]
+      },
+      {
+        "title": "Факултет по математика и информатика",
+        "url": "https://bit.ly/359CtIn",
+        "keywords": [
+          "студенти",
+          "фми",
+          "програми",
+          "специалност",
+          "обучение"
+        ]
+      }
+    ],
+    "обучение": [
+      {
+        "title": "Факултет по математика и информатика",
+        "url": "https://www.fmi.uni-sofia.bg/",
+        "keywords": [
+          "студенти",
+          "фми",
+          "програми",
+          "специалност",
+          "обучение"
+        ]
+      },
+      {
+        "title": "Факултет по математика и информатика",
+        "url": "https://bit.ly/359CtIn",
+        "keywords": [
+          "студенти",
+          "фми",
+          "програми",
+          "специалност",
+          "обучение"
+        ]
+      }
+    ],
+    "upload": [
+      {
+        "title": "ownCloud",
+        "url": "https://intranet.fmi.uni-sofia.bg/index.php/s/HgCnJ4fbIeMrf2r",
+        "keywords": [
+          "upload",
+          "files",
+          "download",
+          "create",
+          "javascript"
+        ]
+      }
+    ],
+    "files": [
+      {
+        "title": "ownCloud",
+        "url": "https://intranet.fmi.uni-sofia.bg/index.php/s/HgCnJ4fbIeMrf2r",
+        "keywords": [
+          "upload",
+          "files",
+          "download",
+          "create",
+          "javascript"
+        ]
+      }
+    ],
+    "download": [
+      {
+        "title": "ownCloud",
+        "url": "https://intranet.fmi.uni-sofia.bg/index.php/s/HgCnJ4fbIeMrf2r",
+        "keywords": [
+          "upload",
+          "files",
+          "download",
+          "create",
+          "javascript"
+        ]
+      }
+    ],
+    "create": [
+      {
+        "title": "ownCloud",
+        "url": "https://intranet.fmi.uni-sofia.bg/index.php/s/HgCnJ4fbIeMrf2r",
+        "keywords": [
+          "upload",
+          "files",
+          "download",
+          "create",
+          "javascript"
+        ]
+      }
+    ],
+    "javascript": [
+      {
+        "title": "ownCloud",
+        "url": "https://intranet.fmi.uni-sofia.bg/index.php/s/HgCnJ4fbIeMrf2r",
+        "keywords": [
+          "upload",
+          "files",
+          "download",
+          "create",
+          "javascript"
+        ]
+      },
+      {
+        "title": "",
+        "url": "https://twitter.com/",
+        "keywords": [
+          "javascript",
+          "twitter",
+          "support",
+          "browser",
+          "policy"
+        ]
+      }
+    ],
+    "zamunda": [
+      {
+        "title": "Zamunda.NET",
+        "url": "https://zamunda.net/",
+        "keywords": [
+          "zamunda",
+          "рекламирай",
+          "замунда",
+          "peer",
+          "начало"
+        ]
+      }
+    ],
+    "рекламирай": [
+      {
+        "title": "Zamunda.NET",
+        "url": "https://zamunda.net/",
+        "keywords": [
+          "zamunda",
+          "рекламирай",
+          "замунда",
+          "peer",
+          "начало"
+        ]
+      }
+    ],
+    "замунда": [
+      {
+        "title": "Zamunda.NET",
+        "url": "https://zamunda.net/",
+        "keywords": [
+          "zamunda",
+          "рекламирай",
+          "замунда",
+          "peer",
+          "начало"
+        ]
+      }
+    ],
+    "peer": [
+      {
+        "title": "Zamunda.NET",
+        "url": "https://zamunda.net/",
+        "keywords": [
+          "zamunda",
+          "рекламирай",
+          "замунда",
+          "peer",
+          "начало"
+        ]
+      }
+    ],
+    "начало": [
+      {
+        "title": "Zamunda.NET",
+        "url": "https://zamunda.net/",
+        "keywords": [
+          "zamunda",
+          "рекламирай",
+          "замунда",
+          "peer",
+          "начало"
+        ]
+      }
+    ],
+    "github": [
+      {
+        "title": "GitHub: Where the world builds software · GitHub",
+        "url": "https://github.com/",
+        "keywords": [
+          "github",
+          "code",
+          "octocat",
+          "learn",
+          "classifier"
+        ]
+      }
+    ],
+    "code": [
+      {
+        "title": "GitHub: Where the world builds software · GitHub",
+        "url": "https://github.com/",
+        "keywords": [
+          "github",
+          "code",
+          "octocat",
+          "learn",
+          "classifier"
+        ]
+      }
+    ],
+    "octocat": [
+      {
+        "title": "GitHub: Where the world builds software · GitHub",
+        "url": "https://github.com/",
+        "keywords": [
+          "github",
+          "code",
+          "octocat",
+          "learn",
+          "classifier"
+        ]
+      }
+    ],
+    "learn": [
+      {
+        "title": "GitHub: Where the world builds software · GitHub",
+        "url": "https://github.com/",
+        "keywords": [
+          "github",
+          "code",
+          "octocat",
+          "learn",
+          "classifier"
+        ]
+      }
+    ],
+    "classifier": [
+      {
+        "title": "GitHub: Where the world builds software · GitHub",
+        "url": "https://github.com/",
+        "keywords": [
+          "github",
+          "code",
+          "octocat",
+          "learn",
+          "classifier"
+        ]
+      }
+    ],
+    "zimbra": [
+      {
+        "title": "Zimbra Web Client Sign In",
+        "url": "https://email.uni-sofia.bg/",
+        "keywords": [
+          "zimbra",
+          "client",
+          "recommend",
+          "advanc",
+          "standard"
+        ]
+      }
+    ],
+    "client": [
+      {
+        "title": "Zimbra Web Client Sign In",
+        "url": "https://email.uni-sofia.bg/",
+        "keywords": [
+          "zimbra",
+          "client",
+          "recommend",
+          "advanc",
+          "standard"
+        ]
+      }
+    ],
+    "recommend": [
+      {
+        "title": "Zimbra Web Client Sign In",
+        "url": "https://email.uni-sofia.bg/",
+        "keywords": [
+          "zimbra",
+          "client",
+          "recommend",
+          "advanc",
+          "standard"
+        ]
+      }
+    ],
+    "advanc": [
+      {
+        "title": "Zimbra Web Client Sign In",
+        "url": "https://email.uni-sofia.bg/",
+        "keywords": [
+          "zimbra",
+          "client",
+          "recommend",
+          "advanc",
+          "standard"
+        ]
+      }
+    ],
+    "standard": [
+      {
+        "title": "Zimbra Web Client Sign In",
+        "url": "https://email.uni-sofia.bg/",
+        "keywords": [
+          "zimbra",
+          "client",
+          "recommend",
+          "advanc",
+          "standard"
+        ]
+      }
+    ],
+    "български": [
+      {
+        "title": "learn.fmi.uni-sofia.bg",
+        "url": "https://learn.fmi.uni-sofia.bg/",
+        "keywords": [
+          "страница",
+          "български",
+          "курсове",
+          "прескочи",
+          "влезли"
+        ]
+      }
+    ],
+    "курсове": [
+      {
+        "title": "learn.fmi.uni-sofia.bg",
+        "url": "https://learn.fmi.uni-sofia.bg/",
+        "keywords": [
+          "страница",
+          "български",
+          "курсове",
+          "прескочи",
+          "влезли"
+        ]
+      }
+    ],
+    "прескочи": [
+      {
+        "title": "learn.fmi.uni-sofia.bg",
+        "url": "https://learn.fmi.uni-sofia.bg/",
+        "keywords": [
+          "страница",
+          "български",
+          "курсове",
+          "прескочи",
+          "влезли"
+        ]
+      }
+    ],
+    "влезли": [
+      {
+        "title": "learn.fmi.uni-sofia.bg",
+        "url": "https://learn.fmi.uni-sofia.bg/",
+        "keywords": [
+          "страница",
+          "български",
+          "курсове",
+          "прескочи",
+          "влезли"
+        ]
+      }
+    ],
+    "климент": [
+      {
+        "title": "ПСБО - СИСТЕМА ЗА НАСТАНЯВАНЕ",
+        "url": "https://psbo.uni-sofia.bg/",
+        "keywords": [
+          "климент",
+          "поделение",
+          "обслужване",
+          "св",
+          "социално"
+        ]
+      }
+    ],
+    "поделение": [
+      {
+        "title": "ПСБО - СИСТЕМА ЗА НАСТАНЯВАНЕ",
+        "url": "https://psbo.uni-sofia.bg/",
+        "keywords": [
+          "климент",
+          "поделение",
+          "обслужване",
+          "св",
+          "социално"
+        ]
+      }
+    ],
+    "обслужване": [
+      {
+        "title": "ПСБО - СИСТЕМА ЗА НАСТАНЯВАНЕ",
+        "url": "https://psbo.uni-sofia.bg/",
+        "keywords": [
+          "климент",
+          "поделение",
+          "обслужване",
+          "св",
+          "социално"
+        ]
+      }
+    ],
+    "св": [
+      {
+        "title": "ПСБО - СИСТЕМА ЗА НАСТАНЯВАНЕ",
+        "url": "https://psbo.uni-sofia.bg/",
+        "keywords": [
+          "климент",
+          "поделение",
+          "обслужване",
+          "св",
+          "социално"
+        ]
+      }
+    ],
+    "социално": [
+      {
+        "title": "ПСБО - СИСТЕМА ЗА НАСТАНЯВАНЕ",
+        "url": "https://psbo.uni-sofia.bg/",
+        "keywords": [
+          "климент",
+          "поделение",
+          "обслужване",
+          "св",
+          "социално"
+        ]
+      }
+    ],
+    "twitter": [
+      {
+        "title": "",
+        "url": "https://twitter.com/",
+        "keywords": [
+          "javascript",
+          "twitter",
+          "support",
+          "browser",
+          "policy"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "title": "",
+        "url": "https://twitter.com/",
+        "keywords": [
+          "javascript",
+          "twitter",
+          "support",
+          "browser",
+          "policy"
+        ]
+      }
+    ],
+    "browser": [
+      {
+        "title": "",
+        "url": "https://twitter.com/",
+        "keywords": [
+          "javascript",
+          "twitter",
+          "support",
+          "browser",
+          "policy"
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "title": "",
+        "url": "https://twitter.com/",
+        "keywords": [
+          "javascript",
+          "twitter",
+          "support",
+          "browser",
+          "policy"
+        ]
+      }
+    ],
+    "llc": [
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/",
+        "keywords": [
+          "llc",
+          "информацияпресаавторски",
+          "youtubeизпробване",
+          "безопасносткак",
+          "google"
+        ]
+      }
+    ],
+    "информацияпресаавторски": [
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/",
+        "keywords": [
+          "llc",
+          "информацияпресаавторски",
+          "youtubeизпробване",
+          "безопасносткак",
+          "google"
+        ]
+      }
+    ],
+    "youtubeизпробване": [
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/",
+        "keywords": [
+          "llc",
+          "информацияпресаавторски",
+          "youtubeизпробване",
+          "безопасносткак",
+          "google"
+        ]
+      }
+    ],
+    "безопасносткак": [
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/",
+        "keywords": [
+          "llc",
+          "информацияпресаавторски",
+          "youtubeизпробване",
+          "безопасносткак",
+          "google"
+        ]
+      }
+    ],
+    "google": [
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/",
+        "keywords": [
+          "llc",
+          "информацияпресаавторски",
+          "youtubeизпробване",
+          "безопасносткак",
+          "google"
+        ]
+      }
+    ],
+    "wolfram": [
+      {
+        "title": "Wolfram|Alpha: Computational Intelligence",
+        "url": "https://www.wolframalpha.com/",
+        "keywords": [
+          "wolfram",
+          "topics",
+          "math",
+          "language",
+          "personal"
+        ]
+      }
+    ],
+    "topics": [
+      {
+        "title": "Wolfram|Alpha: Computational Intelligence",
+        "url": "https://www.wolframalpha.com/",
+        "keywords": [
+          "wolfram",
+          "topics",
+          "math",
+          "language",
+          "personal"
+        ]
+      }
+    ],
+    "math": [
+      {
+        "title": "Wolfram|Alpha: Computational Intelligence",
+        "url": "https://www.wolframalpha.com/",
+        "keywords": [
+          "wolfram",
+          "topics",
+          "math",
+          "language",
+          "personal"
+        ]
+      }
+    ],
+    "language": [
+      {
+        "title": "Wolfram|Alpha: Computational Intelligence",
+        "url": "https://www.wolframalpha.com/",
+        "keywords": [
+          "wolfram",
+          "topics",
+          "math",
+          "language",
+          "personal"
+        ]
+      }
+    ],
+    "personal": [
+      {
+        "title": "Wolfram|Alpha: Computational Intelligence",
+        "url": "https://www.wolframalpha.com/",
+        "keywords": [
+          "wolfram",
+          "topics",
+          "math",
+          "language",
+          "personal"
+        ]
+      }
+    ]
+  }
+}

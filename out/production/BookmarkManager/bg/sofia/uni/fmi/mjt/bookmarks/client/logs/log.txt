@@ -1,0 +1,14 @@
+test: java.lang.IllegalArgumentException: test
+	at bg.sofia.uni.fmi.mjt.bookmarks.client.Client.main(Client.java:19)
+test: java.lang.IllegalArgumentException: test
+	at bg.sofia.uni.fmi.mjt.bookmarks.client.Client.main(Client.java:19)
+test: java.lang.IllegalArgumentException: test
+	at bg.sofia.uni.fmi.mjt.bookmarks.client.Client.main(Client.java:19)
+test: java.lang.IllegalArgumentException: test
+	at bg.sofia.uni.fmi.mjt.bookmarks.client.Client.main(Client.java:19)
+test: java.lang.IllegalArgumentException: test
+	at bg.sofia.uni.fmi.mjt.bookmarks.client.Client.main(Client.java:19)
+test: java.lang.IllegalArgumentException: test
+	at bg.sofia.uni.fmi.mjt.bookmarks.client.Client.main(Client.java:19)
+test: java.lang.IllegalArgumentException: test
+	at bg.sofia.uni.fmi.mjt.bookmarks.client.Client.main(Client.java:19)
